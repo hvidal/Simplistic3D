@@ -1,5 +1,7 @@
 # Simplistic3D #
 
+DISCLAIMER: This is a very OLD project (developed around year 2005)
+
 3D Data Visualization component implemented in Java Desktop / Swing.
 
 * Renderers data on a Swing Form using different types of 3D charts;
